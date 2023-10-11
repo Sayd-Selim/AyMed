@@ -1,0 +1,41 @@
+.rc-slider{
+    padding-top: 25px !important;
+}
+
+/* .header {
+    display: flex;
+    justify-content: space-around;
+    align-items: flex-start;
+    border-bottom: 3px solid green;
+} */
+
+.Text {
+    padding-top: 10px;
+    line-height: 1.6rem;
+    text-align: center;
+}
+
+.Text>p {
+    color: green;
+}
+
+#outlined-basic  {
+    color: #fdfbfa; /* Замените на ваш желаемый цвет */
+  }
+
+
+  /* .MuiInputBase-input .MuiInput-input .css-1x51dt5-MuiInputBase-input-MuiInput-input{
+    color: #fdfbfa;
+  } */
+ 
+  /* .MuiGrid-root{
+    flex-direction: column !important;
+  } */
+
+  .css-9ddj71-MuiInputBase-root-MuiOutlinedInput-root {
+    margin-right: 20px !important;
+  }
+
+  .MuiInputBase-root{
+    padding-right: 0 !important;
+  }
